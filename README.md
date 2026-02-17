@@ -1,4 +1,4 @@
 # apnacoll-demo
-Author - Himanshi Goyal
+Author - Himanshi Goyal(Apna College)
 <br>
 This is my first repo.
